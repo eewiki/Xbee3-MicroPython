@@ -1,5 +1,5 @@
 # Micropython code example for Digi International Xbee3
-# cellular module interface to Maxim MAX31875R0I2C based
+# cellular module interface to Maxim MAX31875R0 I2C based
 # Mikroelektronika Thermo 6 Click board temp sensor 
 #  
 #
