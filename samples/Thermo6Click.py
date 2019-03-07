@@ -5,8 +5,8 @@
 #
 # Wiring Diagram:
 # XBee ->  Thermo 6 Click
-#  19  SCL  12 (and connect to pullup resistor)
-#   7  SDA  11 (and connect to pullup resistor)
+#  19  SCL  12 
+#   7  SDA  11 
 #   1  Vcc  7 (+3.3V)
 #  10  GND  8,9 
 
